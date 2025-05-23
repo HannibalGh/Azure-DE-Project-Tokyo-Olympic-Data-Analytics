@@ -31,7 +31,7 @@ The following libraries and functions are used in the project:
   - Exports the transformed data to the transformed data folder.
 
 ### Notebook File
-The notebook file can be accessed [here](https://github.com/HannibalGh/Azure-DE-Project-Tokyo-Olympic-Data-Analytics/blob/main/Databricks/notebooks/Tokyo_Olympics_Data.ipynb).
+The notebook file can be accessed [here](https://github.com/HannibalGh/Azure-DE-Project-Tokyo-Olympic-Data-Analytics/blob/main/Databricks/Notebooks/Tokyo_Olympics_Data.ipynb).
 
 ### Code Explanation
 The notebook performs data type conversion on the `entriesgender` DataFrame. It imports CSV files, transforms the data types, and saves the transformed data.
